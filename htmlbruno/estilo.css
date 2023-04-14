@@ -1,0 +1,64 @@
+
+*{  /*resetar o navegador*/
+margin: 0;
+padding: 0;
+outline: 0;
+box-sizing: border-box;
+border-radius: 5%;
+}
+
+html, body{ 
+
+font-family: Arial, Helvetica, sans-serif; /*fontes*/
+color: black; /*cor da fonte*/
+font-size: 62.5%;
+text-rendering: optimizeLegibility;
+}
+
+header{ /*cabeçalho*/
+display: flex;
+justify-content: center;
+
+/*propiedades da img*/
+
+}
+
+img{
+height: 100%;
+width: 100%;
+border-radius: 5%;
+}
+
+
+main{
+justify-content: center;
+margin-top: 2rem;
+margin-bottom: 2rem;
+    
+margin-left: 35%;
+margin-right: 35%;
+
+padding-bottom: 5rem;
+  
+border-radius: 5%;
+
+border-left: solid 0.09rem;
+border-right: solid 0.09rem;
+border-bottom: solid 0.09rem;
+}
+
+section{
+
+
+font-size: 1rem;
+
+border-radius: 2rem;
+border: solid 0.05rem;
+padding-bottom: 3rem;
+
+margin-top: 5%;
+margin-left: 5%;
+margin-right: 5%;
+
+padding: 3rem;
+}
